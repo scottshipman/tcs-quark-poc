@@ -1,4 +1,4 @@
-# php-getting-started
+# tcs-quark-poc
 
 A barebones PHP app that makes use of the [Silex](http://silex.sensiolabs.org/) web framework, which can easily be deployed to Heroku.
 
@@ -9,8 +9,8 @@ This application supports the [Getting Started with PHP on Heroku](https://devce
 Install the [Heroku Toolbelt](https://toolbelt.heroku.com/).
 
 ```sh
-$ git clone git@github.com:heroku/php-getting-started.git # or clone your own fork
-$ cd php-getting-started
+$ git clone git@github.com:heroku/tcs-quark-poc.git # or clone your own fork
+$ cd tcs-quark-poc
 $ heroku create
 $ git push heroku master
 $ heroku open
